@@ -1,0 +1,6 @@
+/*
+	Description: photo4me-light css.
+	Version: 0.1
+	Author: Simon Philp | http://www.siphilp.co.uk
+*/
+#photo4me-image-list{display:inline;list-style: none;}#photo4me-image-list li a{display:inline;width:71px;float:left;}.widget-photo4me-img-side{-moz-border-radius: 500px;-webkit-border-radius: 500px;border-radius: 500px;width: 65px;height: 65px;box-sizing:border-box;padding:5px;}

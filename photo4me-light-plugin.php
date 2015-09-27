@@ -94,7 +94,7 @@ class photo4me_light_plugin extends WP_Widget{
 		}else{
 		
 	
-		$photodata = $data['Photos'];
+		$photodata = array_reverse($data['Photos']);
 		
 		echo '<aside class="widget wp_widget_photo4me"><h1 class="widget-title">'. $widgetTitle . '</h1><ul id="photo4me-image-list">';	
 		
